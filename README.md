@@ -1,2 +1,1 @@
-# etech-mavenApp
-to demo
+# maven-etech-application
